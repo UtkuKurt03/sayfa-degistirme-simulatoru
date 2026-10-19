@@ -47,7 +47,7 @@ py -3 -m unittest discover -s tests -v
 Linux/macOS'ta `py -3` yerine `python3` kullanın.
 
 ## Ortak Git deposu
-Gerçek depo bağlantısı: [EKİP DOLDURACAK]
+Gerçek depo bağlantısı: https://github.com/UtkuKurt03/sayfa-degistirme-simulatoru
 GitHub/GitLab hesabında boş bir ortak depo açın ve dört üyeyi ekleyin.
 Bu klasörde Git kurulu terminalde sırayla:
 ```bash
