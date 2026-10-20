@@ -3,18 +3,17 @@
 BİM361 İşletim Sistemleri dersi dönem projesi.
 
 ## Amaç
-FIFO, LRU ve Optimal sayfa değiştirme algoritmalarını aynı girdiler üzerinde karşılaştırmak.
+FIFO, LRU ve Optimal sayfa değiştirme algoritmalarını karşılaştırmak.
 
 ## Mevcut Durum
 - FIFO algoritması çalışmaktadır.
-- Veri girişi, giriş kontrolleri ve adım adım bellek gösterimi hazırdır.
 - LRU ve Optimal algoritmaları için kod iskeletleri oluşturulmuştur.
 
 ## Gereksinimler
-Python 3.10 veya üstü. Ek kütüphane kurulumu gerekmez.
+Python 3.10 veya üstü. 
 
 ## Çalıştırma
-Proje klasöründe terminal açıp şu komutu çalıştırın:
+Proje klasörüne giriyoruz ardından terminal yani cmd açıyoruz ve bu komutu çalıştırıyoruz:
 
 ```bash
 python main.py --file data/ornek.txt --frames 3
