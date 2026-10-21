@@ -10,3 +10,6 @@ FIFO, LRU ve Optimal sayfa değiştirme algoritmalarını karşılaştırmayı p
 - Utku: FIFO algoritması.
 - İlayda: LRU algoritması.
 - İlayza: Optimal algoritması.
+
+Python 3.10 veya üzeri kullanılacaktır.
+Uygulama terminal üzerinden çalışacaktır.
