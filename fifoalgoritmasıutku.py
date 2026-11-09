@@ -11,7 +11,7 @@ for sayfa in sayfalar:
         sonuc = "Sayfa hatası"
         hata_sayisi += 1
         if len(bellek) == cerceve_sayisi:
-            cikan_sayfa = bellek.pop(0)  # İlk yüklenen sayfayı çıkar.
+            cikan_sayfa = bellek.pop(0)  
         bellek.append(sayfa)
 
     print("Sayfa:", sayfa, "|", sonuc, "| Bellek:", bellek, "| Çıkan:", cikan_sayfa)
