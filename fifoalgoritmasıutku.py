@@ -10,7 +10,7 @@ for sayfa in sayfalar:
 
     hata_sayisi += 1
     if len(bellek) == cerceve_sayisi:
-        cikan_sayfa = bellek.pop(0)  # İlk yüklenen sayfayı çıkar.
+        cikan_sayfa = bellek.pop(0) 
         print("Çıkan sayfa:", cikan_sayfa)
     bellek.append(sayfa)
     print(sayfa, "Sayfa hatası", bellek)
