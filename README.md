@@ -11,7 +11,7 @@ FIFO, LRU ve Optimal sayfa değiştirme algoritmalarını karşılaştırmayı p
 - İlayda: LRU algoritması.
 - İlayza: Optimal algoritması.
 
-Uygulama , Python 3.10 veya üzeri kullanılacaktır.
+FIFO, Belady ve LRU örnekleri Windows’ta Python 3.14.3 ile test edilmiştir.
 Uygulama terminal üzerinden çalışacaktır.
 
 ## Normal FIFO Örneği 
