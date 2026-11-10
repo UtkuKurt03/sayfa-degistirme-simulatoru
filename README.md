@@ -17,7 +17,7 @@ Uygulama terminal üzerinden çalışacaktır.
 ## Normal FIFO Örneği 
 Önce klasör açılıp cmd yazılacak . 
 python --version yazarak 3.10 ve üzeri olduğu kontrol edilecek ardından python "fifoalgoritmasıutku.py" yazılacak.
-İlk sunumdaki normal olan "6, 7, 8, 9, 6, 7, 2, 6, 7, 8, 9, 2" sayfa dizisi 3 ve 6 çerçeveyle çalıştırılır. (Bu örnekteki sayıları ChatGPT ile aldım.)
+Bu demoda kullanılan "6, 7, 8, 9, 6, 7, 2, 6, 7, 8, 9, 2" sayfa dizisi 3 ve 6 çerçeveyle çalıştırılır. (Bu örnekteki sayıları ChatGPT ile aldım.)
 
 ## BeladyAnomalisi içeren FIFO Örneği
 Önce klasör açılıp cmd yazılacak ardından python "fifobeladyutku.py" yazılacak.
