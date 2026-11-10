@@ -31,6 +31,6 @@ Aynı diziyle 3 çerçevede 10 sayfa hatası oluşur. FIFO ve LRU örnekleri şu
 
 ## Güncel Durum 
 FIFO örneği , FIFO’da Belady anomalisini gösteren örnek ve LRU algoritmaları şu anda bağımsız olarak çalışmaktadır.
-FIFO örneğinde 3 çerçevede 9 sayfa hatası , 6 çerçevede 5 sayfa hatası bulunuyor.
-Belady örneğinde ise 3 çerçevede 9 sayfa hatası , 4 çerçevede 10 sayfa hatası bulunuyor.
-LRU örneğinde 3 çerçevede 10 sayfa hatası bulunuyor.
+FIFO örneğinde 3 çerçevede 9 sayfa hatası , 6 çerçeve de 5 sayfa hatası bulunuyor.
+Belady örneğinde ise 3 çerçevede 9 sayfa hatası , 4 çerçeve de 10 sayfa hatası bulunuyor.
+LRU örneğinde ise 3 çerçevede 10 sayfa hatası , 6 çerçeve de 5 sayfa hatası bulunuyor.
