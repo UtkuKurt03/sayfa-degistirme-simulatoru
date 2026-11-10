@@ -1,4 +1,4 @@
-sayfalar = [7, 0, 1, 2, 0, 3, 0, 4, 2, 3, 0, 3, 2]
+sayfalar = [6, 7, 8, 9, 6, 7, 2, 6, 7, 8, 9, 2]
 
 for cerceve_sayisi in [3, 6]:
     bellek = []
