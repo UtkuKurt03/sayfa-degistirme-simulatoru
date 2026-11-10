@@ -12,37 +12,17 @@ Bu depo, FIFO, LRU ve Optimal algoritmalarını aynı sayfa dizisi ve çerçeve 
 
 ## Çalıştırma
 
-Önce Python sürümünü kontrol edin:
+Önce terminali açıp Python sürümünü kontrol edin:
 
 ```bash
 python --version
 ```
 
-Proje klasöründe terminal açıp aşağıdaki komutu çalıştırın. Varsayılan olarak sayfa dizisi önce 3, sonra 6 çerçeveyle çalışır:
+Ana proje klasörüne girin ve terminale şu kodu yazın:
 
 ```bash
-python lruilayda.py
+python "LRUİlayda/main.py"
 ```
-
-Yalnızca 3 çerçeveyle çalıştırmak için:
-
-```bash
-python lruilayda.py --frames 3
-```
-
-Yalnızca 6 çerçeveyle çalıştırmak için:
-
-```bash
-python lruilayda.py --frames 6
-```
-
-Farklı sayfa dizisini iki çerçeve sayısıyla çalıştırmak için:
-
-```bash
-python lruilayda.py --pages "6, 7, 8, 9, 6, 7, 2, 6, 7, 8, 9, 2" --frames 3 6
-```
-
-Virgülle veya boşlukla ayrılmış sayfa dizileri kullanılabilir.
 
 ## Örnek çıktı: 3 çerçeve
 
