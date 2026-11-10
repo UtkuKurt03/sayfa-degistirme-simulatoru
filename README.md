@@ -24,7 +24,7 @@ Bu demoda kullanılan "6, 7, 8, 9, 6, 7, 2, 6, 7, 8, 9, 2" sayfa dizisi 3 ve 6 �
 python --version yazarak 3.10 ve üzeri olduğu kontrol edilecek ardından python "FIFOUtku/fifobeladyutku.py" yazılacak.
 "6, 7, 8, 9, 6, 7, 2, 6, 7, 8, 9, 2" sayfa dizisinde FIFO, 3 çerçeveyle 9, 4 çerçeveyle 10 sayfa hatası verir. Bu örnekte çerçeve sayısı arttığında sayfa hatası da artar. (Bu örnekteki sayıları ChatGPT ile aldım.)
 
-##LRU Örneği
+## LRU Örneği
 Önce proje klasörü açılıp sağ tıklayıp terminal açılacak .
 python --version yazarak 3.10 ve üzeri olduğu kontrol edilecek ardından python "LRUİlayda/main.py" yazılacak.
 Aynı diziyle 3 çerçevede 10 sayfa hatası oluşur. FIFO ve LRU örnekleri şu anda ayrı ayrı çalışır.
